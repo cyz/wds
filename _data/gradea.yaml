@@ -1,18 +1,23 @@
--
-  group: "patrocinio"
-  elements:
-    - {
-      icon: "microsoft.png",
-      title: "Microsoft",
-      class: "col-xs-12 col-sm-4 col-lm-4 col-md-4"
-      }
-    - {
-      icon: "cubo.png",
-      title: "CUBO",
-      class: "col-xs-12 col-sm-4 col-lm-4 col-md-4"
-      }
-    - {
-      icon: "mozilla.jpg",
-      title: "Mozilla",
-      class: "col-xs-12 col-sm-4 col-lm-4 col-md-4"
-      }
+patrocinio:
+  - title: "Microsoft"
+    icon: "microsoft.png"
+    class: "col-xs-12 col-sm-6 col-lm-3 col-md-3 sponsors-item"
+  - title: "CUBO"
+    icon: "cubo.png"
+    class: "col-xs-12 col-sm-6 col-lm-3 col-md-3 sponsors-item"
+  - title: "Mozilla"
+    icon: "mozilla.jpg"
+    class: "col-xs-12 col-sm-6 col-lm-3 col-md-3 sponsors-item"
+  - title: "Locaweb"
+    icon: "locaweb.png"
+    class: "col-xs-12 col-sm-6 col-lm-3 col-md-3 sponsors-item"
+realizacao:
+  - title: "WoMakersCode"
+    icon: "womakerscode.png"
+    class: "col-xs-12 col-sm-6 col-lm-4 col-md-4 sponsors-item"
+  - title: "PHP Women"
+    icon: "phpwomen.png"
+    class: "col-xs-12 col-sm-6 col-lm-4 col-md-4 sponsors-item"
+  - title: "Rails Girls São Paulo"
+    icon: "railsgirls-sq.png"
+    class: "col-xs-12 col-sm-6 col-lm-4 col-md-4 sponsors-item"

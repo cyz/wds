@@ -1,9 +1,3 @@
-$color-dark: #0F1726;
-$color-dark-second: #0E1726;
-$color-purple: #3F356D;
-$color-blue-dark: #283A4B;
-$color-gray: #A8A8B8;
-
 body {
     font-weight: 400;
     font-family: 'Fira Sans', sans-serif;
@@ -58,6 +52,10 @@ body {
     margin-bottom: 50px;
 }
 
+.sc-title--medium {
+  font-size: 3.5rem;
+}
+
 #sc-sobre {
   padding-top: 50px;
 
@@ -97,7 +95,25 @@ footer {
   font-size: 1.5rem;
   color: #fff;
 
-  img {
+  a img {
     height: 15px;
+    border: none;
+  }
+}
+
+@media (max-width: 925px) {
+  .sc-title {
+    span {
+      display: block;
+    }
+  }
+
+  #sc-sobre {
+    #side-description {
+      p {
+        margin-left: 25px;
+        margin-right: 25px;
+      }
+    }
   }
 }

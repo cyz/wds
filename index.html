@@ -175,23 +175,33 @@ layout: default
 
     <div class="col-xs-12 col-sm-6 col-lm-6 col-md-6" id="side-about"></div>
     <div class="col-xs-12 col-sm-5 col-lm-5 col-md-5" id="side-description">
-      <p>Praesent in mauris eu tortor porttitor accumsan. Mauris suscipit, ligula sit amet pharetra semper, nibh ante cursus purus, vel sagittis velit mauris vel metus. Aenean fermentum risus id tortor. Integer imperdiet lectus quis justo. Integer tempor. Vivamus ac urna vel leo pretium faucibus. Mauris elementum mauris vitae tortor. In dapibus augue non sapien. Aliquam ante. Curabitur bibendum justo non orci.</p>
+      <p>Somos Desenvolvedoras. Somos Mulheres. Somos Humanas. No mês da mulher, queremos compartilhar o conhecimento na comunidade de desenvolvimento para mulheres e por mulheres. Não está envolvida? Esse evento também é para você! Ainda não trabalha ou conhece muito sobre tecnologia? Esse evento é principalmente para você!</p>
 
-      <p>Praesent in mauris eu tortor porttitor accumsan. Mauris suscipit, ligula sit amet pharetra semper, nibh ante cursus purus, vel sagittis velit mauris vel metus. Aenean fermentum risus id tortor. Integer imperdiet lectus quis justo. Integer tempor. Vivamus ac urna vel leo pretium faucibus. Mauris elementum mauris vitae tortor. In dapibus augue non sapien. Aliquam ante. Curabitur bibendum justo non orci.</p>
+      <p>Através de uma iniciativa única envolvendo as comunidades PHPWomen, Rails Girls, WoMakersCode, Desprograme e Arduladies preparamos um dia especial no Cubo onde participaremos de palestras e paineis, abordaremos nosso papel no ramo de tecnologia e vamos começar a desenvolver peças de software e hardware em oficinas coordenadas por mentoras focadas em passar conhecimento.</p>
     </div>
     <div class="clearfix"></div>
 </section>
 
 <section class="section-container" id="sc-patr">
   <div class="container">
-    <h2 class="sc-title">Patrocínio</h2>
+    <h2 class="sc-title sc-title--medium">Patrocínio</h2>
 
-    {% for contrib in site.data.gradea %}
-      {% for element in contrib.elements %}
-      <div class="{{ element.class }} sponsors-item">
-          <img src="{{ "/img/sponsors/" | prepend: site.baseurl }}{{ element.icon }}" title="{{ element.title }}" alt="{{ element.title }}"/>
+    {% for item in site.data.gradea.patrocinio %}
+      <div class="{{ item.class }} sponsors-item">
+          <img src="{{ "/img/sponsors/" | prepend: site.baseurl }}{{ item.icon }}" title="{{ item.title }}" alt="{{ item.title }}"/>
       </div>
-      {% endfor %}
+    {% endfor %}
+  </div>
+</section>
+
+<section class="section-container">
+  <div class="container">
+    <h2 class="sc-title sc-title--medium">Realização</h2>
+
+    {% for item in site.data.gradea.realizacao %}
+      <div class="{{ item.class }} sponsors-item">
+          <img src="{{ "/img/sponsors/" | prepend: site.baseurl }}{{ item.icon }}" title="{{ item.title }}" alt="{{ item.title }}"/>
+      </div>
     {% endfor %}
   </div>
 </section>

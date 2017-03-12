@@ -41,6 +41,9 @@ body {
   text-align: center;
   margin-bottom: 50px; }
 
+.sc-title--medium {
+  font-size: 3.5rem; }
+
 #sc-sobre {
   padding-top: 50px; }
   #sc-sobre #side-about {
@@ -67,5 +70,14 @@ footer {
   text-align: center;
   font-size: 1.5rem;
   color: #fff; }
-  footer img {
-    height: 15px; }
+  footer a img {
+    height: 15px;
+    border: none; }
+
+@media (max-width: 925px) {
+  .sc-title span {
+    display: block; }
+
+  #sc-sobre #side-description p {
+    margin-left: 25px;
+    margin-right: 25px; } }
