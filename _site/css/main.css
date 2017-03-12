@@ -12,26 +12,30 @@ body {
   color: #fff;
   background: url(../img/header.jpg) right no-repeat;
   background-size: cover; }
-  .cover-conf a {
-    display: block;
-    width: 250px;
-    height: 65px;
-    margin: 0 auto 70px;
-    background: #2A2575;
-    line-height: 65px;
-    text-align: center;
-    color: #fff;
-    text-transform: uppercase; }
-    .cover-conf a:hover {
-      background-color: #fff;
-      color: #2A2575;
-      text-decoration: none; }
   .cover-conf p {
     margin: 40px 0;
     font-size: 2.5rem; }
+    .cover-conf p span {
+      display: block;
+      font-size: 1.8rem; }
   .cover-conf .event-brand {
     display: block;
     margin: 0 auto; }
+
+.sc-button {
+  display: block;
+  width: 250px;
+  height: 65px;
+  margin: 0 auto 70px;
+  background: #2A2575;
+  line-height: 65px;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase; }
+  .sc-button:hover {
+    background-color: #fff;
+    color: #2A2575;
+    text-decoration: none; }
 
 .sc-title {
   font-size: 6rem;

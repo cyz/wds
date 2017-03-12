@@ -14,32 +14,37 @@ body {
   background: url(../img/header.jpg) right no-repeat;
   background-size: cover;
 
-  a {
-    display: block;
-    width: 250px;
-    height: 65px;
-    margin: 0 auto 70px;
-    background: #2A2575;
-    line-height: 65px;
-    text-align: center;
-    color: #fff;
-    text-transform: uppercase;
-
-    &:hover {
-      background-color: #fff;
-      color: #2A2575;
-      text-decoration: none;
-    }
-  }
-
   p {
     margin: 40px 0;
     font-size: 2.5rem;
+
+    span {
+      display: block;
+      font-size: 1.8rem;
+    }
   }
 
   .event-brand {
     display: block;
     margin: 0 auto;
+  }
+}
+
+.sc-button {
+  display: block;
+  width: 250px;
+  height: 65px;
+  margin: 0 auto 70px;
+  background: #2A2575;
+  line-height: 65px;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+
+  &:hover {
+    background-color: #fff;
+    color: #2A2575;
+    text-decoration: none;
   }
 }
 
