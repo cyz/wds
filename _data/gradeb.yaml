@@ -1,0 +1,121 @@
+-
+  group: "bd"
+  id: "01"
+  elements:
+    - {
+      icon: "ss-checkclipboard",
+      time: "08:30",
+      talk: "Credenciamento",
+      description: "Credenciamento e Welcome Coffee"
+      }
+    - {
+      icon: "ss-mic",
+      time: "09:00",
+      talk: "Abertura",
+      description: ""
+      }
+    - {
+      icon: "ss-mic",
+      time: "09:10",
+      talk: "Web mobile",
+      link: "https://speakerdeck.com/jcemer/web-and-mobile",
+      description: "<a href='/jean-carlo/' title='Jean Carlo Emer' class='schedule-speaker'>Jean Carlo Emer</a>Uma palestra com conceitos e práticas de desenvolvimento de websites com suporte a dispositivos móveis.
+"
+      }
+    - {
+      icon: "ss-mic",
+      time: "09:50",
+      talk: "Criando cross-platform Swift Frameworks for iOS and tvOS",
+      description: "<a href='/julio-fernandes-jr/' title='Julio Fernandes Jr' class='schedule-speaker'>Julio Fernandes Jr</a> Facilitando a criação de projetos para iOS, tvOS e Extensions sem duplicar código e classes."
+      }
+    - {
+      icon: "ss-clock",
+      time: "10:30",
+      talk: "Lightning Talks",
+      description: "<h4>AUTOMATIZANDO A DISTRIBUIÇÃO DE APPS</h4>
+      <a href='/roger-silva/' title='ROGER SILVA' class='schedule-speaker'>ROGER SILVA</a>
+      <p>Tudo sobre distribuições e validações automatizadas de apps através das melhores práticas e ferramentas.</p>
+      <hr />
+      <h4>Hotmart Android Pitch</h4>
+      <hr />
+      <h4>Functional Reactive Programming- RXSwift</h4>
+      <a href='/rodrigo-freitas/' title='Rodrigo Freitas' class='schedule-speaker'>Rodrigo Freitas</a><p>Understand the basics: what reactive programming is, how it works why you should use it. Check how RXSwift library achieves FRP and a declarative way programming!</p>
+      <a href='http://www.slideshare.net/rodrigo_freitas_leite/functional-reactive-programming-rxswift'>slides</a>
+      <hr />
+      <h4>Amplificando seu app comToday Extensions.</h4>
+      <a href='/marcelo-garcia/' title='Marcelo Garcia' class='schedule-speaker'>Marcelo Garcia</a><p>Uma abordagem técnica  da importância da implementação de today extensions(widgets) nos aplicativos iOS com iOS 10 e como eles podem aumentar a audiência e interação dos usuários.</p>
+      <hr />"
+      }
+    - {
+      icon: "ss-mic",
+      time: "11:30",
+      talk: "Construindo aplicativos Android com Firebase",
+      link: "https://speakerdeck.com/felipearimateia/construindo-aplicacoes-android-com-firebase-2",
+      description: "<a href='/felipe/' title='Felipe Arimatéia' class='schedule-speaker'>Felipe Arimatéia</a> Ei developer! Você tem uma ideia de um app Android e não queria cirar um backend? Ou precisa de uma plataforma que te entregue serviços como database em tempo real, sistema de autenticação, serviço de push notification e muito mais? Então venha conhecer nessa talk o Firebase e o seu conjunto de ferramentas especializadas em mobile."
+      }
+    - {
+      icon: "ss-spoonfork",
+      time: "12:10",
+      talk: "Almoço",
+      description: "",
+      type: "ss-spoonfork"
+      }
+    - {
+      icon: "ss-mic",
+      time: "13:30",
+      talk: "Interfaces Naturais",
+      link: "http://pt.slideshare.net/edu_agni/interfaces-naturais-69295110",
+      description: "<a href='/edu-agni/' title='Edu Agni' class='schedule-speaker'>Edu Agni</a>"
+      }
+    - {
+      icon: "ss-mic",
+      time: "14:10",
+      talk: "Ionic 2 na prática",
+      description: "
+      <a href='/loiane/' title='Loiane Groner' class='schedule-speaker'>Loiane Groner</a>
+      Ionic 2 é um framework open source para desenvolvimento de aplicativos mobile híbrido, onde se pode desenvolver o aplicativo usando HTML/CSS e JavaScript, fazer acesso nativo usando essas tecnologias e compilar o app para diferentes plataformas como iOS, Android e Windows Phone e publicá-lo nas respectivas app stores. O Ionic 2 é baseado em frameworks também open source e populares no mercado: Phonegap/Cordova, Angular2 e Sass (CSS). Vamos aprender como criar tipos de apps populares nas lojas usando conceitos do Angular 2 (Components, Templates, Pipes, Diretivas, Serviços + RxJS Observables) integrando-os com o CSS e componentes visuais do Ionic.
+      "
+      }
+    - {
+      icon: "ss-mic",
+      time: "15:00",
+      talk: "Você está preparado para conectar um device à nuvem?",
+      description: "<a href='/marcelo-junqueira/' title='Marcelo Junqueira' class='schedule-speaker'>Marcelo Junqueira</a>A Internet das Coisas nada mais é que a extensão da capacidade digital para coisas físicas e é o próximo grande passo da tecnologia para os próximos anos. Dentro desta realidade existe um movimento natural de unificação de projetos de software e hardware. Junto com ela um novo perfil está surgindo com desenvolvedores capazes de integrar estes dois mundos.  Nesta palestra iremos explorar um case de um produto IoT que envolve desde o desenho do hardware, conexão com a nuvem, segurança, escalabilidade, Analytics e Machine Learning."
+      }
+    - {
+      icon: "ss-mic",
+      time: "15:40",
+      talk: "Acessibilidade em alto e bom som : dando voz aos seus aplicativos",
+      description: "<a href='/juliana-salgado/' title='Juliana Salgado' class='schedule-speaker'>Juliana Salgado</a>Nesta palestra vou dar uma visão geral dos recursos de acessibilidade existentes que nós, como os desenvolvedores podem (e devem) explorar. Eu vou te mostrar como é fácil de fazer o seu aplicativo acessível aos deficientes visuais através de uma demonstração de sua implementação no app do iFood"
+      }
+    - {
+      icon: "ss-mug",
+      time: "16:20",
+      palestrante: "",
+      link-palestrante: "",
+      talk: "Coffee-break",
+      description: "",
+      type: "ss-spoonfork"
+      }
+    - {
+      icon: "ss-mic",
+      time: "16:50",
+      talk: "A solução do Twitter para desenvolvimento de melhores apps",
+      link: "http://pt.slideshare.net/julianachahoud/a-soluo-do-twitter-para-desenvolvimento-de-melhores-apps",
+      description: "<a href='/juliana-chahoud/' title='Juliana Chahoud' class='schedule-speaker'>Juliana Chahoud</a>Em apenas dois anos o Twitter conseguiu atingir dois bilhões de dispositivos com os SDKs do Fabric, a solução da empresa para aplicativos Mobile. Será demonstrado na prática como utilizar SDKs e ferramentas do Fabric como o Digits, TwitterKit e Fastlane de forma eficaz. Entenda casos de sucesso da solução e dessa forma crie melhores aplicativos."
+      }
+    - {
+      icon: "ss-mic",
+      time: "17:40",
+      talk: "Soluções Contextuais: antecipando as ações do usuário",
+      description: "<a href='/santhyago-gallao/' title='Santhyago Gallão' class='schedule-speaker'>Santhyago Gallão</a>Utilizando alguns sensores e APIs para prever as ações do usuário, garantindo uma solução sempre presente apenas quando o usuário precisar dela."
+    }
+    - {
+      icon: "ss-mic",
+      time: "18:30",
+      palestrante: "",
+      link-palestrante: "",
+      talk: "Resultado Pitch Time, encerramento + Sorteios",
+      description: "<i class='ss-heart' style='font-size: 1rem;'></i><i style='font-size: 2rem;'>Até o próximo Summit!</i>",
+      type: "ss-spoonfork"
+    }

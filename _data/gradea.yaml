@@ -1,0 +1,18 @@
+-
+  group: "patrocinio"
+  elements:
+    - {
+      icon: "microsoft.png",
+      title: "Microsoft",
+      class: "col-xs-12 col-sm-4 col-lm-4 col-md-4"
+      }
+    - {
+      icon: "cubo.png",
+      title: "CUBO",
+      class: "col-xs-12 col-sm-4 col-lm-4 col-md-4"
+      }
+    - {
+      icon: "mozilla.jpg",
+      title: "Mozilla",
+      class: "col-xs-12 col-sm-4 col-lm-4 col-md-4"
+      }

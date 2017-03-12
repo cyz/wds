@@ -1,0 +1,103 @@
+$color-dark: #0F1726;
+$color-dark-second: #0E1726;
+$color-purple: #3F356D;
+$color-blue-dark: #283A4B;
+$color-gray: #A8A8B8;
+
+body {
+    font-weight: 400;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.section-container {
+    padding: 50px 0;
+}
+
+.cover-conf {
+  font-size: 1.3em;
+  padding: 13% 0 3%;
+  color: #fff;
+  background: url(../img/header.jpg) right no-repeat;
+  background-size: cover;
+
+  a {
+    display: block;
+    width: 250px;
+    height: 65px;
+    margin: 0 auto 70px;
+    background: #2A2575;
+    line-height: 65px;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+
+    &:hover {
+      background-color: #fff;
+      color: #2A2575;
+      text-decoration: none;
+    }
+  }
+
+  p {
+    margin: 40px 0;
+    font-size: 2.5rem;
+  }
+
+  .event-brand {
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+.sc-title {
+    font-size: 6rem;
+    font-weight: 600;
+    color: #2A2575;
+    margin-top: 0;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#sc-sobre {
+  padding-top: 50px;
+
+  #side-about {
+    background: url(../img/side-about.jpg) no-repeat;
+    background-size: cover;
+    min-height: 450px;
+  }
+
+  #side-description {
+    p {
+      margin: 25px 0 25px 55px;
+    }
+  }
+}
+
+#sc-patr {
+  background-color: #efefef;
+}
+
+.sponsors-item {
+  height: 180px;
+
+  img {
+    max-height: 100%;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+
+footer {
+  background-color: #21262a;
+  padding: 25px;
+  text-align: center;
+  font-size: 1.5rem;
+  color: #fff;
+
+  img {
+    height: 15px;
+  }
+}
