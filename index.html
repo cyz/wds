@@ -182,6 +182,44 @@ layout: default
     <div class="clearfix"></div>
 </section>
 
+<section id="sc-prog" class="section-container">
+  <div class="container">
+    <h2 class="sc-title sc-title--medium" style="color: #fff;">Programação</h2>
+
+    <ul class="nav nav-tabs" role="tablist" id="prog-tabs">
+      {% for item in site.data.gradea.programacao %}
+        <li role="presentation" class="{{item.status}}"><a href="#{{item.id}}" aria-controls="{{item.id}}" role="tab" data-toggle="tab">{{item.oficina}}</a></li>
+      {% endfor %}
+    </ul>
+
+    <div class="tab-content">
+      {% for item in site.data.gradea.programacao %}
+        <div role="tabpanel" class="tab-pane {{item.status}}" id="{{item.id}}">
+          <div class="col-xs-12 col-sm-7 col-lm-7 col-md-8">
+            <table class="prog-table">
+              <tbody>
+                {% for entry in item.prog %}
+                <tr>
+                  <td>{{entry.detail}}</td>
+                </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+          <div class="col-xs-12 col-sm-5 col-lm-5 col-md-4 sp-profile">
+            {% for profile in item.speakers %}
+              {{profile.profile}}
+            {% endfor %}
+          </div>
+        </div>
+      {% endfor %}
+
+      <div class="clearfix"></div>
+    </div>
+
+  </div>
+</section>
+
 <section class="section-container" id="sc-patr">
   <div class="container">
     <h2 class="sc-title sc-title--medium">Patrocínio</h2>

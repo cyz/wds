@@ -1,16 +1,16 @@
 patrocinio:
   - title: "Microsoft"
     icon: "microsoft.png"
-    class: "col-xs-12 col-sm-6 col-lm-3 col-md-3 sponsors-item"
+    class: "col-xs-12 col-sm-6 col-lm-3 col-md-4 sponsors-item"
   - title: "CUBO"
     icon: "cubo.png"
-    class: "col-xs-12 col-sm-6 col-lm-3 col-md-3 sponsors-item"
+    class: "col-xs-12 col-sm-6 col-lm-3 col-md-4 sponsors-item"
   - title: "Mozilla"
     icon: "mozilla.jpg"
-    class: "col-xs-12 col-sm-6 col-lm-3 col-md-3 sponsors-item"
+    class: "col-xs-12 col-sm-6 col-lm-3 col-md-4 sponsors-item"
   - title: "Locaweb"
     icon: "locaweb.png"
-    class: "col-xs-12 col-sm-6 col-lm-3 col-md-3 sponsors-item"
+    class: "col-xs-12 col-sm-6 col-lm-3 col-md-4 sponsors-item"
 realizacao:
   - title: "WoMakersCode"
     icon: "womakerscode.png"
@@ -21,3 +21,52 @@ realizacao:
   - title: "Rails Girls São Paulo"
     icon: "railsgirls-sq.png"
     class: "col-xs-12 col-sm-6 col-lm-4 col-md-4 sponsors-item"
+programacao:
+  - oficina: "Trilha Margaret Hamilton (PHP)"
+    id: "trilha-php"
+    status: "active"
+    speakers:
+      - profile: "<figure>
+        <img src='/img/speaker/thamara.jpg' title='Thamara Hessel' class='img-responsive'/>
+        <a href='https://twitter.com/thamarahessel' target='_blank' title='Thamara Hessel'>Thamara Hessel</a>
+      </figure>"
+      - profile: "<figure>
+        <img src='/img/speaker/ariana.jpg' title='Thamara Hessel' class='img-responsive'/>
+        <a href='https://twitter.com/ariskataoka' target='_blank' title='Ariana Kataoka'>Ariana Kataoka</a>
+      </figure>"
+    prog:
+      - detail: "<h3><i class='fa fa-clock-o'></i> 9:00 - 9:30 <strong>Abertura e Café da Manhã</strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i> 10:00 - 12:00 <strong>Oficina: PHP para iniciantes - Parte I</strong></h3><p>A oficina PHPWomen é tem duração de 6 horas e irá abrir as portas para o excitante mundo da programação web em PHP, iniciando o desenvolvimento com a linguagem e usando as ferramentas necessárias e monitoras com experiência para acompanhar toda trajetória.</p>
+      <ul>
+        <li>Conhecendo o PHP</li>
+        <li>Tipos de Dados</li>
+        <li>Variáveis, Constantes e Operadores </li>
+        <li>Trabalhando com Arrays</li>
+        <li>Funções</li>
+        <li>Estruturas de Controle</li>
+        <li>Formulários em HTML</li>
+      </ul>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>12:00 - 13:30 <strong>Almoço, por nossa conta! :) </strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>13:30 - 16:30 <strong>Oficina: PHP para iniciantes - Parte II</strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>16:30 - 17:00 <strong>Coffee-break</strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>17:00 - 17:30 <strong>Encerramento e sorteios</strong></h3>"
+  - oficina: "Trilha Grace Hopper (Front-end)"
+    id: "trilha-front"
+    status: ""
+    prog:
+      - detail: "<h3><i class='fa fa-clock-o'></i>9:00 - 9:30 <strong>Abertura e Café da Manhã</strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i> 10:00 - 12:00 <strong>Oficina: Sites responsivos com Bootstratp</strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>12:00 - 13:30 <strong>Almoço, por nossa conta! :) </strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>13:30 - 16:30 <strong>Oficina: Criando um chatbot</strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>16:30 - 17:00 <strong>Coffee-break</strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>17:00 - 17:30 <strong>Encerramento e sorteios</strong></h3>"
+  - oficina: "Trilha Annie Cannon (ArduLadies)"
+    id: "trilha-ardu"
+    status: ""
+    prog:
+      - detail: "<h3><i class='fa fa-clock-o'></i>9:00 - 9:30 <strong>Abertura e Café da Manhã</strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>10:00 - 12:00 <strong>Oficina: Nos bastidores com a ArduLadies - Parte I</strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>12:00 - 13:30 <strong>Almoço, por nossa conta! :) </strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>13:30 - 16:30  <strong>Oficina: Nos bastidores com a ArduLadies - Parte II</strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>16:30 - 17:00 <strong>Coffee-break</strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>17:00 - 17:30 <strong>Encerramento e sorteios</strong></h3>"
