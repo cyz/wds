@@ -61,6 +61,11 @@ body {
   font-size: 3.5rem;
 }
 
+.sc-title--short {
+  font-size: 2.5rem;
+  margin-top: 100px;
+}
+
 #sc-sobre {
   padding-top: 50px;
 
@@ -119,7 +124,7 @@ body {
   }
 
   &.nav-tabs>li {
-    width: 33.334%;
+    width: 25%;
 
     a {
       border: 1px solid #fff;
@@ -179,7 +184,6 @@ footer {
   figure {
     max-width: 300px;
     margin: 0 auto 25px;
-    background: #f2f2f2;
     padding: 10px 10px 0 10px;
   }
 

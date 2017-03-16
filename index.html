@@ -241,5 +241,13 @@ layout: default
           <img src="{{ "/img/sponsors/" | prepend: site.baseurl }}{{ item.icon }}" title="{{ item.title }}" alt="{{ item.title }}"/>
       </div>
     {% endfor %}
+    <div class="clearfix"></div>
+    <h2 class="sc-title sc-title--short">Comunidades de apoio</h2>
+
+    {% for item in site.data.gradea.comunidades %}
+      <div class="{{ item.class }} sponsors-item sponsors-item--com">
+          <img src="{{ "/img/sponsors/" | prepend: site.baseurl }}{{ item.icon }}" title="{{ item.title }}" alt="{{ item.title }}" class="img-responsive"/>
+      </div>
+    {% endfor %}
   </div>
 </section>

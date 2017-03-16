@@ -21,18 +21,65 @@ realizacao:
   - title: "Rails Girls São Paulo"
     icon: "railsgirls-sq.png"
     class: "col-xs-12 col-sm-6 col-lm-4 col-md-4 sponsors-item"
+patrocinio:
+  - title: "Microsoft"
+    icon: "microsoft.png"
+    class: "col-xs-12 col-sm-6 col-lm-3 col-md-4 sponsors-item"
+  - title: "CUBO"
+    icon: "cubo.png"
+    class: "col-xs-12 col-sm-6 col-lm-3 col-md-4 sponsors-item"
+  - title: "Mozilla"
+    icon: "mozilla.jpg"
+    class: "col-xs-12 col-sm-6 col-lm-3 col-md-4 sponsors-item"
+  - title: "Locaweb"
+    icon: "locaweb.png"
+    class: "col-xs-12 col-sm-6 col-lm-3 col-md-4 sponsors-item"
+comunidades:
+  - title: "ArduLadies"
+    icon: "arduladies.png"
+    class: "col-xs-12 col-sm-6 col-lm-4 col-md-4 sponsors-item"
+  - title: "Desprograme"
+    icon: "desprograme.png"
+    class: "col-xs-12 col-sm-6 col-lm-4 col-md-4 sponsors-item"
 programacao:
+  - oficina: "Trilha Grace Hopper (Front-end)"
+    id: "trilha-front"
+    status: ""
+    speakers:
+      - profile: "<figure>
+        <img src='/img/sponsors/womakerscode.png' title='WoMakersCode' class='img-responsive'/>
+      </figure>"
+    prog:
+      - detail: "<h3><i class='fa fa-clock-o'></i>9:00 - 9:30 <strong>Abertura e Café da Manhã</strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i> 10:00 - 12:00 <strong>Oficina: Sites responsivos com Bootstratp</strong></h3><p>O objetivo desse workshop é fornecer ao aluno uma visão geral das técnicas, princípios, conceitos básicos e fundamentos do framework Bootstrap.
+  Você irá aprender desenvolvendo seu próprio site com layout responsivo.</p>
+  <p><strong>Pré-requisitos:</strong></p>
+  <ul>
+  <li>Conhecimentos básicos de HTML e CSS.</li>
+  <li>Necessário trazer um editor de código instalado. Pode ser o Atom, Visual Studio Code, Sublime Text ou Notepad++.</li>
+  <li>Necessário trazer seu próprio notebook e carregador.</li>
+  </ul>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>12:00 - 13:30 <strong>Almoço, por nossa conta! :) </strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>13:30 - 16:30 <strong>Oficina: Criando um chatbot</strong></h3><p>Há quem diga que os chatbots são o futuro da interface de interação entre pessoas e marcas. Que tal criar um bot, em NodeJS, para chamar de seu? <3 </p><p>Neste workshop você aprenderá:</p><ul>
+  <li>O que é ChatBot</li>
+  <li>Como funciona (arquitetura e experiência de usuário)</li>
+  <li>Laboratório de desenvolvimento de um diálogo</li>
+  </ul>
+  <p><strong>Pré-requisitos:</strong></p><ul>
+  <li>Conhecimentos básicos de Javascript ou NodeJS.</li>
+  <li>Necessário trazer um editor de código instalado. Pode ser o Atom, Visual Studio Code, Sublime Text ou Notepad++.</li>
+  <li>Necessário trazer seu próprio notebook e carregador.</li>
+  <li>Necessário ter o
+  <a href='https://docs.botframework.com/en-us/tools/bot-framework-emulator/' target='_blank'>Bot Emulator</a> e o <a href='https://nodejs.org/en/download/' target='_blank'>Nodejs</a> instalados.</li>
+  </ul>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>16:30 - 17:00 <strong>Coffee-break</strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>17:00 - 17:30 <strong>Encerramento e sorteios</strong></h3>"
   - oficina: "Trilha Margaret Hamilton (PHP)"
     id: "trilha-php"
     status: "active"
     speakers:
       - profile: "<figure>
-        <img src='/img/speaker/thamara.jpg' title='Thamara Hessel' class='img-responsive'/>
-        <a href='https://twitter.com/thamarahessel' target='_blank' title='Thamara Hessel'>Thamara Hessel</a>
-      </figure>"
-      - profile: "<figure>
-        <img src='/img/speaker/ariana.jpg' title='Thamara Hessel' class='img-responsive'/>
-        <a href='https://twitter.com/ariskataoka' target='_blank' title='Ariana Kataoka'>Ariana Kataoka</a>
+        <img src='/img/sponsors/phpwomen.png' title='PHPWomen BR' class='img-responsive'/>
       </figure>"
     prog:
       - detail: "<h3><i class='fa fa-clock-o'></i> 9:00 - 9:30 <strong>Abertura e Café da Manhã</strong></h3>"
@@ -50,23 +97,47 @@ programacao:
       - detail: "<h3><i class='fa fa-clock-o'></i>13:30 - 16:30 <strong>Oficina: PHP para iniciantes - Parte II</strong></h3>"
       - detail: "<h3><i class='fa fa-clock-o'></i>16:30 - 17:00 <strong>Coffee-break</strong></h3>"
       - detail: "<h3><i class='fa fa-clock-o'></i>17:00 - 17:30 <strong>Encerramento e sorteios</strong></h3>"
-  - oficina: "Trilha Grace Hopper (Front-end)"
-    id: "trilha-front"
-    status: ""
-    prog:
-      - detail: "<h3><i class='fa fa-clock-o'></i>9:00 - 9:30 <strong>Abertura e Café da Manhã</strong></h3>"
-      - detail: "<h3><i class='fa fa-clock-o'></i> 10:00 - 12:00 <strong>Oficina: Sites responsivos com Bootstratp</strong></h3>"
-      - detail: "<h3><i class='fa fa-clock-o'></i>12:00 - 13:30 <strong>Almoço, por nossa conta! :) </strong></h3>"
-      - detail: "<h3><i class='fa fa-clock-o'></i>13:30 - 16:30 <strong>Oficina: Criando um chatbot</strong></h3>"
-      - detail: "<h3><i class='fa fa-clock-o'></i>16:30 - 17:00 <strong>Coffee-break</strong></h3>"
-      - detail: "<h3><i class='fa fa-clock-o'></i>17:00 - 17:30 <strong>Encerramento e sorteios</strong></h3>"
   - oficina: "Trilha Annie Cannon (ArduLadies)"
     id: "trilha-ardu"
     status: ""
+    speakers:
+      - profile: "<figure>
+        <img src='/img/sponsors/arduladies.png' title='ArduLadies' class='img-responsive'/>
+      </figure>"
     prog:
       - detail: "<h3><i class='fa fa-clock-o'></i>9:00 - 9:30 <strong>Abertura e Café da Manhã</strong></h3>"
-      - detail: "<h3><i class='fa fa-clock-o'></i>10:00 - 12:00 <strong>Oficina: Nos bastidores com a ArduLadies - Parte I</strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>10:00 - 12:00 <strong>Prototipação com o Fritzing e Projetando Circuitos</strong></h3><p>Antes de colocar a mão na massa e construir seus projetos wearables e makers é necessário planejetar quais componentes serão utilizados e prototipar o circuito eletrico. Pensando nisso, iremos oferecer uma oficina de prototipação utilizando a ferramenta Fritzing, ao final utilizaremos o circuito para a oficina de bordado.</p>"
       - detail: "<h3><i class='fa fa-clock-o'></i>12:00 - 13:30 <strong>Almoço, por nossa conta! :) </strong></h3>"
-      - detail: "<h3><i class='fa fa-clock-o'></i>13:30 - 16:30  <strong>Oficina: Nos bastidores com a ArduLadies - Parte II</strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>13:30 - 16:30  <strong>Oficina: Nos bastidores com as ArduLadies</strong></h3>
+      <p>Venham conosco bordar uma linda Joaninha Wearable, utilizando:</p>
+      <ul>
+      <li>Linha condutiva</li>
+      <li>LEDs</li>
+      <li>Bateria do tipo moeda</li>
+      <li>Técnicas de costuras e bordados</li>
+      </ul>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>16:30 - 17:00 <strong>Coffee-break</strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>17:00 - 17:30 <strong>Encerramento e sorteios</strong></h3>"
+  - oficina: "Trilha Ada Lovelace (Ruby On Rails)"
+    id: "trilha-ruby"
+    status: ""
+    speakers:
+      - profile: "<figure>
+        <img src='/img/sponsors/railsgirls-sq.png' title='Rails Girls' class='img-responsive'/>
+      </figure>"
+    prog:
+      - detail: "<h3><i class='fa fa-clock-o'></i> 9:00 - 9:30 <strong>Abertura e Café da Manhã</strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i> 10:00 - 12:00 <strong>Oficina: Ruby on Rails para iniciantes - Parte I</strong></h3><p>Oficina para aprender a programar com Rails através da criação de um blog pessoal. Você aprenderá um pouco sobre o básico de Ruby, Rails é um pouco de HTML e CSS para criação de um blog próprio e poderá até hospedá-lo gratuitamente :D</p>
+      <ul>
+        <li>Conhecendo o Ruby on Rails</li>
+        <li>Tipos de Dados</li>
+        <li>Variáveis, Constantes e Operadores </li>
+        <li>Trabalhando com Arrays</li>
+        <li>Funções</li>
+        <li>Estruturas de Controle</li>
+        <li>Formulários em HTML</li>
+      </ul>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>12:00 - 13:30 <strong>Almoço, por nossa conta! :) </strong></h3>"
+      - detail: "<h3><i class='fa fa-clock-o'></i>13:30 - 16:30 <strong>Oficina: Ruby on Rails para iniciantes - Parte II</strong></h3>"
       - detail: "<h3><i class='fa fa-clock-o'></i>16:30 - 17:00 <strong>Coffee-break</strong></h3>"
       - detail: "<h3><i class='fa fa-clock-o'></i>17:00 - 17:30 <strong>Encerramento e sorteios</strong></h3>"
