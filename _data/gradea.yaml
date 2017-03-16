@@ -127,16 +127,7 @@ programacao:
       </figure>"
     prog:
       - detail: "<h3><i class='fa fa-clock-o'></i> 9:00 - 9:30 <strong>Abertura e Café da Manhã</strong></h3>"
-      - detail: "<h3><i class='fa fa-clock-o'></i> 10:00 - 12:00 <strong>Oficina: Ruby on Rails para iniciantes - Parte I</strong></h3><p>Oficina para aprender a programar com Rails através da criação de um blog pessoal. Você aprenderá um pouco sobre o básico de Ruby, Rails é um pouco de HTML e CSS para criação de um blog próprio e poderá até hospedá-lo gratuitamente :D</p>
-      <ul>
-        <li>Conhecendo o Ruby on Rails</li>
-        <li>Tipos de Dados</li>
-        <li>Variáveis, Constantes e Operadores </li>
-        <li>Trabalhando com Arrays</li>
-        <li>Funções</li>
-        <li>Estruturas de Controle</li>
-        <li>Formulários em HTML</li>
-      </ul>"
+      - detail: "<h3><i class='fa fa-clock-o'></i> 10:00 - 12:00 <strong>Oficina: Ruby on Rails para iniciantes - Parte I</strong></h3><p>Oficina para aprender a programar com Rails através da criação de um blog pessoal. Você aprenderá um pouco sobre o básico de Ruby, Rails é um pouco de HTML e CSS para criação de um blog próprio e poderá até hospedá-lo gratuitamente :D</p>"
       - detail: "<h3><i class='fa fa-clock-o'></i>12:00 - 13:30 <strong>Almoço, por nossa conta! :) </strong></h3>"
       - detail: "<h3><i class='fa fa-clock-o'></i>13:30 - 16:30 <strong>Oficina: Ruby on Rails para iniciantes - Parte II</strong></h3>"
       - detail: "<h3><i class='fa fa-clock-o'></i>16:30 - 17:00 <strong>Coffee-break</strong></h3>"
