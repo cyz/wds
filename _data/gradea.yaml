@@ -37,10 +37,10 @@ patrocinio:
 comunidades:
   - title: "ArduLadies"
     icon: "arduladies.png"
-    class: "col-xs-12 col-sm-6 col-lm-4 col-md-4 sponsors-item"
+    class: "col-xs-12 col-sm-6 col-lm-6 col-md-6 sponsors-item sponsors-item sponsors-item--com"
   - title: "Desprograme"
     icon: "desprograme.png"
-    class: "col-xs-12 col-sm-6 col-lm-4 col-md-4 sponsors-item"
+    class: "col-xs-12 col-sm-6 col-lm-6 col-md-6 sponsors-item sponsors-item sponsors-item--com"
 programacao:
   - oficina: "Trilha Grace Hopper (Front-end)"
     id: "trilha-front"
