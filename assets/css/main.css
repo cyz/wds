@@ -2819,6 +2819,10 @@
 	margin-bottom: .5rem;
 }
 
+#schedule .table-wrapper tbody td:first-child strong {
+	text-align: center;
+}
+
 #schedule .table-wrapper #schedule-track {
 	text-transform: uppercase;
 	background: #2A2575;
