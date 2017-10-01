@@ -3169,6 +3169,11 @@
     width: 15%;
 }
 
+#two {
+	background: url(../../images/side.png) right bottom;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
 /* Footer */
 
 	#footer {
