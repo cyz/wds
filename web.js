@@ -27,6 +27,8 @@ $(function() {
                         content +=  '</ul></footer></article>';
     
         });
+
+        content += "<article></article><article></article><article></article>";
     
         jQuery("#speaker-list").html(content);
 
