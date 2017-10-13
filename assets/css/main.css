@@ -2224,7 +2224,8 @@
 			}
 
 		.image.round img {
-			border-radius: 100%;
+			/* border-radius: 100%; */
+			max-width: 200px;
 		}
 
 		.image.left {
@@ -3170,7 +3171,15 @@
 }
 
 #three .flex.flex-2 article {
-    width: 15%;
+    width: 20%;
+}
+
+#three .flex.flex-2 article h3 {
+	font-size: 1.2em;
+}
+
+#three .flex.flex-2 article p {
+	height: 80px;
 }
 
 #two {

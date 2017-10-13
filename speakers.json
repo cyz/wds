@@ -1,0 +1,101 @@
+[  
+    {  
+       "picture":"carolina.jpg",
+       "name":"Carolina Pascale Campos",
+       "bio":"Desenvolvedora web na Codeminer 42. Organizadora do Rails Girls Sorocaba.",
+       "twitter":"https://twitter.com/CarolinaPascale",
+       "facebook":"https://www.facebook.com/carolina.pascalecampos",
+       "github":"https://github.com/CarolPC",
+       "linkedin": ""
+    },
+    {  
+       "picture":"02.jpg",
+       "name":"Jullia Saad",
+       "bio":"Front-end, estudante de ADS na Fatec e organizadora do Rails Girls Sorocaba.",
+       "twitter":"https://twitter.com/julliasaad",
+       "facebook":"https://www.facebook.com/julliasaad",
+       "github":"https://github.com/julliasaad",
+       "linkedin": ""
+    },
+    {  
+       "picture":"03.jpg",
+       "name":"Maria Clara",
+       "bio":"Full Stack, atua em projetos de startups no BR e USA e entusiasta de comunidades.",
+       "twitter":"https://twitter.com/olarclara",
+       "facebook":"",
+       "github":"https://github.com/olarclara",
+       "linkedin": ""
+    },
+    {  
+       "picture":"04.jpg",
+       "name":"Laís Lima",
+       "bio":"Estudante de ADS, Front-end, formada em Comunicação Visual e entusiasta de comunidades.",
+       "twitter":"https://twitter.com/lalizita98",
+       "facebook":"https://www.facebook.com/lalizita98",
+       "github":"",
+       "linkedin": ""
+    },
+    {  
+       "picture":"05.jpg",
+       "name":"Thaissa Bueno Sanches",
+       "bio":".NET Developer, é especialista em C# para web e mobile. Formada em Redes de Computadores.",
+       "twitter":"",
+       "facebook":"https://www.facebook.com/thayssa.sanchess",
+       "github":"https://github.com/thayssa1186",
+       "linkedin": ""
+    },
+    {  
+       "picture":"ariana.jpg",
+       "name":"Ariana Kataoka",
+       "bio":"Back-end, especialista em PHP e membro do PHPSP e PHPWomenBR",
+       "twitter":"https://twitter.com/ariskataoka",
+       "facebook":"https://www.facebook.com/ariskataoka/",
+       "github":"https://github.com/ariskataoka",
+       "linkedin": ""
+    },
+    {  
+       "picture":"cynthia.jpg",
+       "name":"Cynthia Zanoni",
+       "bio":"Full Stack Developer e líder do WoMakersCode.org e Mobile Brasil",
+       "twitter":"https://twitter.com/cynthiazanoni",
+       "facebook":"https://www.facebook.com/cynzanoni/",
+       "github":"https://github.com/cyz",
+       "linkedin": ""
+    },
+    {  
+       "picture":"fernanda.jpg",
+       "name":"Fernanda Bernardo",
+       "bio":"Front-end Developer",
+       "twitter":"https://twitter.com/Feh_Bernardo",
+       "facebook":"https://www.facebook.com/fernanda.m.bernardo",
+       "github":"https://github.com/FernandaBernardo",
+       "linkedin": ""
+    },
+    {  
+       "picture":"andrielle.jpg",
+       "name":"Andrielle Azevedo de Paula",
+       "bio":"Consultora, formada em SI e Líder das regiões Sul e Sudeste da ONG MTAC",
+       "twitter":"",
+       "facebook":"",
+       "github":"",
+       "linkedin": "https://www.linkedin.com/in/andrielleazevedo"
+    },
+    {  
+       "picture":"06.jpg",
+       "name":"Daniele Lopes Bonilha",
+       "bio":"Analista Digital em Mobility e graduada em ADS pela Fatec",
+       "twitter":"",
+       "facebook":"https://www.facebook.com/D.Bonilha",
+       "github":"",
+       "linkedin": ""
+    },
+    {  
+       "picture":"07.jpg",
+       "name":"Diana Ungaro Arnos",
+       "bio":"Web dev, evangelista PHPWomenBR e apaixonada por Agile e qualidade de código.",
+       "twitter":"http://twitter.com/dianaarnos",
+       "facebook":"http://facebook.com/dianaarnos",
+       "github":"http://github.com/dianaarnos",
+       "linkedin": ""
+    }
+ ]
