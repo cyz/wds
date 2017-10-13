@@ -90,12 +90,21 @@
        "linkedin": ""
     },
     {  
-       "picture":"07.jpg",
+       "picture":"07.png",
        "name":"Diana Ungaro Arnos",
        "bio":"Web dev, evangelista PHPWomenBR e apaixonada por Agile e qualidade de código.",
        "twitter":"http://twitter.com/dianaarnos",
        "facebook":"http://facebook.com/dianaarnos",
        "github":"http://github.com/dianaarnos",
+       "linkedin": ""
+    },
+    {  
+       "picture":"08.jpg",
+       "name":"Tais Reis Duarte",
+       "bio":"Full Stack, evangelista PHPWomenBR e apaixonada por tudo que envolve o desenvolvimento web.",
+       "twitter":"http://twitter.com/taisreis67",
+       "facebook":"http://facebook.com/taisreis67",
+       "github":"http://github.com/taisreis67",
        "linkedin": ""
     }
  ]

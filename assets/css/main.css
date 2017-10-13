@@ -2832,6 +2832,13 @@
 #schedule .table-wrapper th {
 	padding: 0.75em;
 	border: 1px solid #2A2575;
+	text-transform: uppercase;
+}
+
+#schedule .table-wrapper #schedule-track th:nth-child(2),
+#schedule .table-wrapper #schedule-track th:nth-child(3),
+#schedule .table-wrapper #schedule-track th:nth-child(4) {
+	width: 31%;
 }
 
 #schedule .table-wrapper #schedule-track th {
@@ -2845,8 +2852,13 @@
 }
 
 #schedule .table-wrapper td {
-	padding: 0.75em;
+	padding: 0.75em 0.75em 0.3em;
 	border: 1px solid #2A2575;
+}
+
+#schedule .table-wrapper td span {
+	display: block;
+	margin-bottom: 15px;
 }
 
 #schedule .table-wrapper thead {
