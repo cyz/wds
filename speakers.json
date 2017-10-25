@@ -98,7 +98,7 @@
        "github":"http://github.com/dianaarnos",
        "linkedin": ""
     },
-    {  
+    {
        "picture":"08.jpg",
        "name":"Tais Reis Duarte",
        "bio":"Full Stack, evangelista PHPWomenBR e apaixonada por tudo que envolve o desenvolvimento web.",
@@ -106,5 +106,14 @@
        "facebook":"http://facebook.com/taisreis67",
        "github":"http://github.com/taisreis67",
        "linkedin": ""
+    },
+    {
+      "picture":"09.jpg",
+      "name":"Julia",
+      "bio":"Software Engineer",
+      "twitter":"http://twitter.com/exulhabirkett",
+      "facebook":"http://facebook.com/birkettjulia",
+      "github":"http://github.com/juliabirkett",
+      "linkedin": "https://www.linkedin.com/in/birkettjulia/"
     }
  ]
