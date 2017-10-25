@@ -35,6 +35,15 @@
        "github":"",
        "linkedin": ""
     },
+    {
+      "picture":"08.jpg",
+      "name":"Tais Reis Duarte",
+      "bio":"Full Stack, evangelista PHPWomenBR e apaixonada por tudo que envolve o desenvolvimento web.",
+      "twitter":"http://twitter.com/taisreis67",
+      "facebook":"http://facebook.com/taisreis67",
+      "github":"http://github.com/taisreis67",
+      "linkedin": ""
+    },
     {  
        "picture":"05.jpg",
        "name":"Thaissa Bueno Sanches",
@@ -99,15 +108,6 @@
        "linkedin": ""
     },
     {
-       "picture":"08.jpg",
-       "name":"Tais Reis Duarte",
-       "bio":"Full Stack, evangelista PHPWomenBR e apaixonada por tudo que envolve o desenvolvimento web.",
-       "twitter":"http://twitter.com/taisreis67",
-       "facebook":"http://facebook.com/taisreis67",
-       "github":"http://github.com/taisreis67",
-       "linkedin": ""
-    },
-    {
       "picture":"09.jpg",
       "name":"Julia Birkett",
       "bio":"Software Engineer",
@@ -119,7 +119,7 @@
   {
     "picture":"10.jpg",
     "name":"Patricia Luz Bastos",
-    "bio":"Sou formada em Ciência da Computação pela Puc Poços de Caldas e especialista em Engenharia de Software pela Unicamp. Trabalho desde 2010 na área de TI, sendo que iniciei em 2013 com programação e desde final de 2013 especificamente com Ruby on Rails. Comecei a me envolver esse ano com eventos tendo sido coach no RailsGirls de São Paulo e isso me motivou a querer contribuir ainda mais p/ comunidade e a trazer mais mulheres para a área.",
+    "bio":"Formada em Ciência da Computação pela Puc Poços de Caldas e especialista em Engenharia de Software pela Unicamp.",
     "twitter":"http://twitter.com/patricialuzbast",
     "facebook":"https://www.facebook.com/paty.bastos.5",
     "github":"http://github.com/patybastos",
