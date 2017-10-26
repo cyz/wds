@@ -35,6 +35,15 @@
        "github":"",
        "linkedin": ""
     },
+    {
+      "picture":"08.jpg",
+      "name":"Tais Reis Duarte",
+      "bio":"Full Stack, evangelista PHPWomenBR e apaixonada por tudo que envolve o desenvolvimento web.",
+      "twitter":"http://twitter.com/taisreis67",
+      "facebook":"http://facebook.com/taisreis67",
+      "github":"http://github.com/taisreis67",
+      "linkedin": ""
+    },
     {  
        "picture":"05.jpg",
        "name":"Thaissa Bueno Sanches",
@@ -99,21 +108,21 @@
        "linkedin": ""
     },
     {
-       "picture":"08.jpg",
-       "name":"Tais Reis Duarte",
-       "bio":"Full Stack, evangelista PHPWomenBR e apaixonada por tudo que envolve o desenvolvimento web.",
-       "twitter":"http://twitter.com/taisreis67",
-       "facebook":"http://facebook.com/taisreis67",
-       "github":"http://github.com/taisreis67",
-       "linkedin": ""
-    },
-    {
       "picture":"09.jpg",
-      "name":"Julia",
+      "name":"Julia Birkett",
       "bio":"Software Engineer",
       "twitter":"http://twitter.com/exulhabirkett",
       "facebook":"http://facebook.com/birkettjulia",
       "github":"http://github.com/juliabirkett",
       "linkedin": "https://www.linkedin.com/in/birkettjulia/"
-    }
+    },
+  {
+    "picture":"10.jpg",
+    "name":"Patricia Luz Bastos",
+    "bio":"Cientista da Computação pela Puc Poços de Caldas e especialista em Engenharia de Software pela Unicamp",
+    "twitter":"http://twitter.com/patricialuzbast",
+    "facebook":"https://www.facebook.com/paty.bastos.5",
+    "github":"http://github.com/patybastos",
+    "linkedin": "https://www.linkedin.com/in/patricia-bastos-530ab16a/"
+  }
  ]
