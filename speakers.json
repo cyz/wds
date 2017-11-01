@@ -8,6 +8,24 @@
        "github":"https://github.com/CarolPC",
        "linkedin": ""
     },
+    {
+      "picture":"12.jpg",
+      "name":"Danielle Monteiro",
+      "bio":"Sou mestre em Engenharia da Computação (IPT-USP) e pós graduada em Engenharia de Negócios (Centro Paula Souza)",
+      "twitter":"http://twitter.com/DaniMonteiroDBA",
+      "facebook":"https://www.facebook.com/DB4Beginners",
+      "github":"",
+      "linkedin": "http://www.linkedin.com/in/DaniMonteiroDBA"
+    },
+    {
+      "picture":"13.jpg",
+      "name":"Charlotte Lorelei Oliveira",
+      "bio":"Desenvolvedora de software evangelista de Erlang, entusiasta de programação funcional e desenvolvimento web",
+      "twitter":"https://twitter.com/umaMaisTempo",
+      "facebook":"",
+      "github":"",
+      "linkedin": "https://www.linkedin.com/in/umamaistempo"
+    },
     {  
        "picture":"02.jpg",
        "name":"Jullia Saad",
