@@ -151,5 +151,23 @@
     "facebook":"",
     "github":"",
     "linkedin": ""
+  },
+  {
+    "picture":"Cat.jpg",
+    "name":"Caterine Barbosa",
+    "bio":"Estudante de Ciências da Computação e estagiária na área de Power BI.",
+    "twitter":"",
+    "facebook":"",
+    "github":"",
+    "linkedin": ""
+  },
+  {
+    "picture":"gab.jpg",
+    "name":"Gabriela Duque",
+    "bio":"Formada em Ciências da Computação, trabalha como conssultora e é entusiasta de comunidades",
+    "twitter":"",
+    "facebook":"",
+    "github":"",
+    "linkedin": ""
   }
  ]
