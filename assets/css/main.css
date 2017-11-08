@@ -3054,7 +3054,7 @@
 
 			#banner .flex div {
 				border-right: 2px solid rgba(255, 255, 255, 0.2);
-				padding: 0 8em;
+				padding: 0 7em;
 			}
 
 				#banner .flex div:last-child {
@@ -3203,7 +3203,7 @@
 }
 
 .place-sec {
-    color: #000;
+    color: #000 !important;
 }
 
 .place-sec img {max-width: 300px; margin: 20px auto; display: block;}
