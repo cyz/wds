@@ -3206,9 +3206,7 @@
     background-repeat: no-repeat;
 }
 
-.place-sec {
-    color: #000 !important;
-}
+
 
 .place-sec img {max-width: 300px; margin: 20px auto; display: block;}
 /* Footer */
@@ -3272,3 +3270,8 @@
 			}
 
 		}
+
+
+.place-sec {
+    color: #000 !important;
+}
