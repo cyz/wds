@@ -2858,7 +2858,11 @@
 	border: 1px solid #2A2575;
 }
 
-#schedule .table-wrapper td span {
+#schedule .table-wrapper td:first-child {
+    width: 8%;
+}
+
+    #schedule .table-wrapper td span {
 	display: block;
 	margin-bottom: 15px;
 }
