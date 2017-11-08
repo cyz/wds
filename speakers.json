@@ -90,15 +90,6 @@
      "linkedin": ""
   },
   {
-     "picture":"fernanda.jpg",
-     "name":"Fernanda Bernardo",
-     "bio":"Front-end Developer",
-     "twitter":"https://twitter.com/Feh_Bernardo",
-     "facebook":"https://www.facebook.com/fernanda.m.bernardo",
-     "github":"https://github.com/FernandaBernardo",
-     "linkedin": ""
-  },
-  {
      "picture":"andrielle.jpg",
      "name":"Andrielle Azevedo de Paula",
      "bio":"Consultora, formada em SI e Líder das regiões Sul e Sudeste da ONG MTAC",
@@ -124,15 +115,6 @@
      "facebook":"http://facebook.com/dianaarnos",
      "github":"http://github.com/dianaarnos",
      "linkedin": ""
-  },
-  {
-    "picture":"09.jpg",
-    "name":"Julia Birkett",
-    "bio":"Software Engineer",
-    "twitter":"http://twitter.com/exulhabirkett",
-    "facebook":"http://facebook.com/birkettjulia",
-    "github":"http://github.com/juliabirkett",
-    "linkedin": "https://www.linkedin.com/in/birkettjulia/"
   },
   {
     "picture":"10.jpg",
@@ -164,20 +146,11 @@
   {
     "picture":"gab.jpg",
     "name":"Gabriela Duque",
-    "bio":"Formada em Ciências da Computação, trabalha como conssultora e é entusiasta de comunidades",
+    "bio":"Formada em Ciências da Computação, trabalha como consultora e é entusiasta de comunidades",
     "twitter":"",
     "facebook":"",
     "github":"",
     "linkedin": ""
-  },
-  {
-    "picture":"malu.jpg",
-    "name":"Maria Luísa Cantadori",
-    "bio":"Engenheira Eletrônica pela POLI-USP, trabalha como Product Manager em uma das maiores fintechs do país.",
-    "twitter":"",
-    "facebook":"",
-    "github":"",
-    "linkedin": "https://linkedin.com/in/mlcantadori/"
   },
   {
     "picture":"camilasilva.jpg",
