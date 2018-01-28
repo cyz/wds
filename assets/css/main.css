@@ -2998,8 +2998,22 @@
 		position: relative;
 	}
 
+	#banner-cpbr {
+		padding: 6em 0 9em 0;
+		background-image: url(../../images/banner_feel-the-future.jpg);
+		background-size: cover;
+		background-position: bottom;
+		background-attachment: fixed;
+		background-repeat: no-repeat;
+		text-align: center;
+		position: relative;
+	}
 
-		#banner .inner {
+	
+
+
+		#banner .inner,
+		#banner-cpbr .inner {
 			position: relative;
 		}
 
@@ -3011,6 +3025,8 @@
 			margin: 0 0 1em 0;
 			padding: 0;
 		}
+
+		
 
 		#banner h1 span {
 			display: block;
@@ -3270,4 +3286,130 @@
 
 .place-sec {
     color: #000 !important;
+}
+
+
+.cover-cpbr {
+    background-image: url(../../images/banner_feel-the-future.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    padding: 40px 0;
+}
+
+.cover-cpbr svg {
+	width: 100%;
+}
+
+.cover-cpbr h1 {
+	font-size: 3.5em;
+	color: #fff;
+	line-height: 1em;
+	margin: 0 0 1em 0;
+	padding: 0;	
+	font-weight: 900;
+	text-align: center;	
+}
+
+.cover-cpbr .cpbr-title-cover {
+	background: #fff;
+    display: inline-block;
+    padding: 10px 20px;
+	font-weight: 900;
+	color: #000;
+}
+
+.cover-cpbr .cpbr-title-cover .icon {
+	margin-right: 10px;
+}
+
+.cover-cpbr .cpbr-title-cover--p {
+	width: 80%;
+    font-weight: 500;
+	font-size: 3rem;
+	color: #fff;
+	background: rgba(0,128,255,1);
+    background: -moz-linear-gradient(left, rgba(0,128,255,1) 0%, rgba(126,44,129,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(0,128,255,1)), color-stop(100%, rgba(126,44,129,1)));
+    background: -webkit-linear-gradient(left, rgba(0,128,255,1) 0%, rgba(126,44,129,1) 100%);
+    background: -o-linear-gradient(left, rgba(0,128,255,1) 0%, rgba(126,44,129,1) 100%);
+    background: -ms-linear-gradient(left, rgba(0,128,255,1) 0%, rgba(126,44,129,1) 100%);
+    background: linear-gradient(to right, rgba(0,128,255,1) 0%, rgba(126,44,129,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0080ff', endColorstr='#7e2c81', GradientType=1 );
+}
+
+.ctn-schedule, .homesec {
+	padding: 60px 0;
+}
+.homesec a {
+	background: #2A2575;
+    padding: 20px 30px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 2rem;
+    text-decoration: none;
+}
+.ctn-title {
+	text-transform: uppercase;
+	color: #2A2575;
+	text-align: center;
+	font-weight: 900;
+	font-size: 4rem;
+}
+
+.schedule-head {
+	background: rgba(0,128,255,1);
+    background: -moz-linear-gradient(left, rgba(0,128,255,1) 0%, rgba(126,44,129,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(0,128,255,1)), color-stop(100%, rgba(126,44,129,1)));
+    background: -webkit-linear-gradient(left, rgba(0,128,255,1) 0%, rgba(126,44,129,1) 100%);
+    background: -o-linear-gradient(left, rgba(0,128,255,1) 0%, rgba(126,44,129,1) 100%);
+    background: -ms-linear-gradient(left, rgba(0,128,255,1) 0%, rgba(126,44,129,1) 100%);
+    background: linear-gradient(to right, rgba(0,128,255,1) 0%, rgba(126,44,129,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0080ff', endColorstr='#7e2c81', GradientType=1 );
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 1.3rem;
+}
+
+.schedule-item h3 {
+	font-weight: 900;
+	color: #000;
+	margin: 0;
+}
+
+.image--wmc {
+	margin-top: 50px;
+}
+
+@media screen and (max-width: 700px) {
+	.cpbr-title-cover, .cover-cpbr .cpbr-title-cover--p {
+		width: 100%;
+		text-align: center;
+	}
+
+	.cover-cpbr img {
+		display: block;
+		margin: 0 auto;
+	}
+
+	.cover-cpbr svg {
+		height: 250px;
+	}
+}
+
+.hcover {
+	background: url(../../images/cover.PNG);
+    height: 100vh;
+    background-size: cover;
+	background-position: right;
+	position: relative;
+}
+
+.hcover-about {
+	position: absolute;
+	background: #fff;
+	bottom: 0;
 }
